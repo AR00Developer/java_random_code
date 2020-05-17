@@ -23,13 +23,10 @@ for begginners. But still I'll let some between files to make you work out them 
 
 ## Github-links-repo
 
-*** Swetabhsuman8 ***
-```sh 
+***Swetabhsuman8*** 
 [Swetabhsuman8-REPO](https://github.com/Swetabhsuman8/Java-Basic-Codes-for-beginner-to-advance)
-```
+ 
 
 
-*** Ayushd70 ***
-```sh 
-[Ayushd70-REPO](https://github.com/Ayushd70/RetardedCodes)
-```
+***Ayushd70*** 
+[Ayushd70-REPO](https://github.com/Ayushd70/RetardedCodes) 
