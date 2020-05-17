@@ -1,4 +1,4 @@
-##Files inside this repo: 
+# Files inside this repo: 
 
 
 They are a bunch of unrelated java classes destinated for really beginners. 
@@ -11,15 +11,15 @@ Write per block of code related and stop shortly if you feel you neeed it.
 I will let the github repo from where they were recolected as a helper guide if you want to look at them 
 
 
-##Github-links-repo
+## Github-links-repo
 
-$ Swetabhsuman8
+### Swetabhsuman8 **
 ```sh 
 https://github.com/Swetabhsuman8/Java-Basic-Codes-for-beginner-to-advance
 ```
 
 
-$ Ayushd70
+### Ayushd70 **
 ```sh 
 https://github.com/Ayushd70/RetardedCodes 
 ```
