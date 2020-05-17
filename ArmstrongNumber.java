@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-class ArmstrongNumber
+public class ArmstrongNumber
 {
 	public static void main(String args[])
 	{
@@ -36,7 +36,7 @@ class ArmstrongNumber
 	}
 
 
-	public static int power(int remainder, digits)
+	public static int power(int remainder,int digits)
 	{
 		int i , power = 1; 
 
