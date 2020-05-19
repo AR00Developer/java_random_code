@@ -5,9 +5,7 @@
 
 ***TheAlgorithms :*** 
 [TheAlgorithms](https://github.com/TheAlgorithms/Java)
-
-I do really like the order in his classes so I'll re-write them as a practice, but also I'd like to thanks
-for that awesome repo, ;). 
+ 
 
 
 #Test 
