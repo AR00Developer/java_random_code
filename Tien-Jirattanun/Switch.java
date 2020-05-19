@@ -2,7 +2,7 @@ package com.company
 
 public class Switch
 {
-	public static void main(Stirng[] args)
+	public static void main(String[] args)
 	{
 		int day = 4; 
 		switch(day)
