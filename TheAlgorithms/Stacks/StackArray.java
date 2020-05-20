@@ -109,5 +109,5 @@ public class StackArray
 	{
 		top = -1;
 	}
-	 /* Author @TheAlgorithm - https://github.com/TheAlgorithms */ 
+	 /* Author @TheAlgorithms - https://github.com/TheAlgorithms */ 
 }

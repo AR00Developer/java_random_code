@@ -54,5 +54,5 @@ public class StackArrayList
 			return stackList.get(stackList.size() - 1); 
 		}
 	} 
-	 /* Author @TheAlgorithm - https://github.com/TheAlgorithms */ 
+	 /* Author @TheAlgorithms - https://github.com/TheAlgorithms */ 
 }
